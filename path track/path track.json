@@ -4,9 +4,9 @@
     "name": "Path Track",
     "description": "Tracking all applications in one place",
     "icons": {
-      "16": "/images/shooting-start (16).png",
-      "48": "/images/shooting-start (48).png",
-      "128": "/images/shooting-start (128).png"
+      "16": "/images/shooting-star (16).png",
+      "48": "/images/shooting-star (48).png",
+      "128": "/images/shooting-star (128).png"
     },
     "page_action": {
       "default_icon": {
