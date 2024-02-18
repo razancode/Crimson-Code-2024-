@@ -6,7 +6,7 @@
     "icons": {
       "16": "/images/shooting-start (16).png",
       "48": "/images/shooting-start (48).png",
-      "128": "/images/ishooting-start (128).png"
+      "128": "/images/shooting-start (128).png"
     },
     "page_action": {
       "default_icon": {
@@ -15,4 +15,4 @@
         "128": "/images/star (128).png"
       }
     }
-    }
+}
